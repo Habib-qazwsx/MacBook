@@ -1,0 +1,55 @@
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+#holeSection{
+    display: flex;
+    margin-top: 100px;
+}
+#macBookImg{
+    width: 600px;
+    height: 500px;
+}
+.firstDiv{
+    width: 600px;
+    margin-left: 300px;
+    margin-right: 80px;
+}
+.secondDiv{
+    width: 600px;
+}
+.commonBtn{
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.commonBtn:hover{
+    background-color: rgb(83, 81, 81);
+    color: white;
+}
+.prizeCount{
+    margin-top: 50px;
+    width: 310px;
+}
+.prize{
+    border-bottom: 1px solid gray;
+}
+#Total{
+    padding: 15px;
+    text-align: center;
+    border-top: 1px solid gray;
+    margin-top: 50px;
+}
+#totalPrize{
+    border-top: 1px solid gray;
+}
+#promoCodeBtn:hover{
+    background-color: rgb(83, 81, 81);
+    color: white;
+}
+#promoCodeBtn{
+    background-color: #BB2D3B;
+    width: 60px;
+    height: 28px;
+    border-radius: 5px;
+}
